@@ -11119,8 +11119,6 @@
     <property name="Air Battle Rounds" value="2" editable="false">
       <number min="-1" max="100"/>
     </property>
-      <boolean/>
-    </property>
     <property name="Damage From Bombing Done To Units Instead Of Territories" value="true" editable="false">
       <boolean/>
     </property>
